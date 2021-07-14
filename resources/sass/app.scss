@@ -1,1 +1,14 @@
-//
+@import 'partials/home.scss';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: lightcoral;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
